@@ -1,0 +1,9 @@
+# Explicit exclusions and the submission budget are recorded in artifacts/BUDGET.md.
+**/node_modules/
+**/.vite/
+**/.cache/
+**/coverage/
+**/playwright-report/
+**/test-results/
+**/*.tsbuildinfo
+test/scratch/
